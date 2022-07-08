@@ -77,5 +77,10 @@ function $initHighlight(block, cls) {
 }
 
 export  $initHighlight;
-
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+|--------| -------- | --------- |
+| Maxi   | Burgos   | 343242
+| Tomas  | Tompson  | 636534
